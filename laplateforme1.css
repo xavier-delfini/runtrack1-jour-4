@@ -1,0 +1,24 @@
+.formulaire{
+    display: flex;
+    justify-content: center;
+    
+}
+.formulaire-formation {
+margin-right: 15px;
+flex-direction: column;
+}
+
+.prenom{
+    width: 350px;
+}
+.nom{
+margin-left: 400px;
+width: 350px;
+}
+
+.ville{
+    margin-right: 500px;
+}
+.adress{
+    margin-right: 400px;
+}

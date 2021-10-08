@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(235, 127, 186);
+    }
+
+small {
+    font-family: 'Patua One', cursive;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    }
+    
+img {
+    float: left;
+    }
+a {
+    font-family: 'Patua One', cursive;
+    color: white;
+    }
+
+h1 {
+    font-family: 'Patua One', cursive;
+    color: white;
+    border: solid;
+    }
+
+b {
+    color: white;
+    }
+
+c {
+    font-family: 'Patua One', cursive;
+    font-size: 32px;
+    color: white;
+    margin-left: 400px;
+    }
+
+d {
+    font-family: 'Patua One', cursive;
+    border: solid;
+    color: white;
+    float: left;
+    }
+
+e {
+    font-family: 'Patua One', cursive;
+    border: solid;
+    color: white;
+    float: center;
+    }   
+ 
+f {
+    font-family: 'Patua One', cursive;
+    border: solid;
+    color: white;
+    float: right;
+    }
+
+g {
+    font-family: 'Patua One', cursive;
+    color: white;
+    float: center;   
+    height: 100px;
+}
+
+
+

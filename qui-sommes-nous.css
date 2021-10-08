@@ -1,0 +1,38 @@
+
+body{background-color: rgb(155, 196, 219);}
+
+.picture{
+    height: 70px;
+    }
+
+
+    .picture2{
+               display: flex;
+               flex-direction:;
+               height: 70px;
+               }
+     
+               
+               .texte1 {
+                        position: relative;
+                        bottom: 140px; ;
+                        left: 250px; 
+                        }
+                        
+
+                 
+             .texte2  {
+                        position: relative;
+                        bottom: 110px; ;
+                        left: 210px;
+                         }          
+               
+             
+             .vidéo {
+                    display: flex;
+                     flex-direction:row;
+                     height: 190px;
+                        }
+               
+              
+             
